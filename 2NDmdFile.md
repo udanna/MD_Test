@@ -4,6 +4,6 @@ It seems that it does, am now editing it in RStudio using the Markdown language
 ##Second level  heading
 ###Third level heading
 The heading levels were done in RStudio, and now am adding a list in Notepad++
-*item 1
-*item 2
-*item 3
+* item 1
+* item 2
+* item 4
